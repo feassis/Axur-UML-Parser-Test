@@ -1,0 +1,17 @@
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\bin\Debug\net9.0\HTMPPArser.exe
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\bin\Debug\net9.0\HTMPPArser.deps.json
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\bin\Debug\net9.0\HTMPPArser.runtimeconfig.json
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\bin\Debug\net9.0\HTMPPArser.dll
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\bin\Debug\net9.0\HTMPPArser.pdb
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.AssemblyInfo.cs
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.dll
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\refint\HTMPPArser.dll
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.pdb
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.genruntimeconfig.cache
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\ref\HTMPPArser.dll
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\bin\Debug\net9.0\HtmlAgilityPack.dll
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Axur Selection Process\HTMPPArser\HTMPPArser\obj\Debug\net9.0\HTMPPArser.csproj.Up2Date
